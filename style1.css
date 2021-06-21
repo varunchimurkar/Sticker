@@ -1,0 +1,81 @@
+.bgcolor {
+    border-radius: 5px;
+    background: darkslategrey;
+    padding: 30px;
+    width: 1070px;
+    height: 482px;
+    margin: 30px;
+    
+    
+  }
+
+  .bground {
+    
+    border-radius: 20px;
+    border: 8px solid #bdb76b;
+    margin: 5px;
+    padding-left: 28px;
+    width: 438px;
+    height: 438px;
+    position: relative;
+    background-color: darkslategrey;
+}
+
+h2 {
+      color: whitesmoke;
+      font-family:  serif;
+      margin-left: 15%;
+      margin-top: 1%;
+     
+}
+
+
+
+.right {
+    background-color: white;
+    margin-top: -50%;
+    margin-right: -2%;
+    width: 730px;
+    height: 520px;
+    float:right;
+    
+}
+
+.logo1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 28%;
+}
+
+.dot {
+    height: 12px;
+    width: 12px;
+
+    background-color: rgb(16, 75, 75);
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+h1{
+     color:#2e8b57;
+     font-family: serif;
+     font-size: 150%;
+     text-align: center;
+}
+
+span{
+
+  position: relative;
+  left: 40px;
+}
+
+h1{
+  position: relative;
+  left: 40px;
+  
+}
+
+ 
+   
+  
